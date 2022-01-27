@@ -3,17 +3,17 @@
 
 # HOT 16
 
-# 1. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 1. cd
+# nie odtwarza płyt ;) Hasło klucz jak chce się wejśc w jakiś katalog
 
-# 2. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 2. dir
+# znam to z DOSa, robi to samo co ls tylko foldery pokazuje na biało
 
-# 3. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 3. ls
+# robi to samo co dir, tylko foldery pokazuje na niebiesko
 
-# 4. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 4. cat
+# tworzenie Opis... - czyli co to robi. Krótki, w jednej linijce.
 
 # 5. komenda
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
