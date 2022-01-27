@@ -12,23 +12,23 @@
 # 3. ls
 # robi to samo co dir, tylko foldery pokazuje na niebiesko
 
-# 4. cat
-# tworzenie Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 4. cat> 
+# + nazwa pliku i roszerzenie - tworzenie pliku oraz wpisanie od razu treści. HGW co zrobi jeśli damy rozszerzenie .exe ;) 
 
-# 5. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 5. mkdir 
+# + nazwa folderu - zrobi folder
 
-# 6. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 6. rmdir 
+# + nazwa folderu - usunie folder
 
-# 7. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 7. touch 
+# + nazwa plik i rozszerzenie - tworzenie pliku
 
-# 8. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 8. nano 
+# + nazwa plik i rozszerzenie - stworzy plik i zaczniemy edycje 
 
-# 9. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 9. ls -l
+# zobaczymy co jest w folderze wraz datami etc
 
 # 10. komenda
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
