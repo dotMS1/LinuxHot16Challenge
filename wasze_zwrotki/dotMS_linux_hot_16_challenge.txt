@@ -4,7 +4,7 @@
 # HOT 16
 
 # 1. cd
-# nie odtwarza płyt ;) Hasło klucz jak chce się wejśc w jakiś katalog
+# nie odtwarza płyt ;) cd + nazwa folderu to hasło klucz jak chce się wejśc w jakiś folder.  
 
 # 2. dir
 # znam to z DOSa, robi to samo co ls tylko foldery pokazuje na biało
@@ -30,26 +30,26 @@
 # 9. ls -l
 # zobaczymy co jest w folderze wraz datami etc
 
-# 10. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 10. mk 
+# + nazwa pliku - tworzy plik 
 
-# 11. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 11. cd ..
+# wychodzimy z folderu
 
-# 12. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 12. cd //
+# odkryte w wyniku literówki. Wchodzimy jednym ruchem do tajemnego katalogu //
 
-# 13. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 13. pwd
+# ścieżka obecnej lokalizacji
 
-# 14. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 14. cp
+# kopiowanie pliku np. + nazwa1 nazwa2 - skopiuje plik nazwa1 do nazwa2  
 
-# 15. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 15. find
+# poszukiwanie pliku po nazwie
 
-# 16. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 16. exit
+# czyli dobranoc, do widzenia, papa
 
 
 
